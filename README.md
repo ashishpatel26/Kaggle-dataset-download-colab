@@ -121,7 +121,7 @@
 
 
 ```python
-! unzip train.zip -d train
+!unzip train.zip -d train
 ```
 
     unzip:  cannot find or open train.zip, train.zip.zip or train.zip.ZIP.
