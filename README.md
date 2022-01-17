@@ -1,7 +1,6 @@
  # How to download Kaggle dataset in colab.
 
 
-
 ```python
 !pip install kaggle
 ```
@@ -129,3 +128,7 @@
 
 # For More help follow KaggleAPI Documentation
 https://github.com/Kaggle/kaggle-api
+
+# References
+------------
+1. https://technowhisp.com/kaggle-api-python-documentation/
